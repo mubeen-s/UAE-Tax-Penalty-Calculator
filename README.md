@@ -56,7 +56,7 @@ Penalties are applied based on how late the VD is submitted from the original du
 
 ## 📂 File Contents
 
-- `Penalty_Calculator_UAE.xlsx`  
+- `Penalty_Calculator.xlsx`  
   A fully automated penalty calculator Excel file for both VD and late return submissions.
 
 ---
